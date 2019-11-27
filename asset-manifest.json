@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/gitrepo/static/js/main.b07fd95b.chunk.js",
+    "main.js.map": "/gitrepo/static/js/main.b07fd95b.chunk.js.map",
+    "runtime~main.js": "/gitrepo/static/js/runtime~main.d48f2f76.js",
+    "runtime~main.js.map": "/gitrepo/static/js/runtime~main.d48f2f76.js.map",
+    "static/js/2.f372c966.chunk.js": "/gitrepo/static/js/2.f372c966.chunk.js",
+    "static/js/2.f372c966.chunk.js.map": "/gitrepo/static/js/2.f372c966.chunk.js.map",
+    "index.html": "/gitrepo/index.html",
+    "precache-manifest.959de93711b9854c5ecd40de7f2c249d.js": "/gitrepo/precache-manifest.959de93711b9854c5ecd40de7f2c249d.js",
+    "service-worker.js": "/gitrepo/service-worker.js"
+  }
+}
